@@ -54,6 +54,10 @@ table {
 body {
 	height: 100% auto;
 }
+main {
+	width: 100%;
+	height: auto;
+}
 
 /* Header */
 header {
