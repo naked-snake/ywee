@@ -52,5 +52,23 @@ table {
 
 /* General */
 body {
+	height: 100% auto;
+}
+
+/* Header */
+header {
+	height: 80px;
 	background-color: green;
+}
+
+/* Content */
+aside {
+	width: 20%;
+	background-color: blue;
+	float: left;
+}
+#content {
+	width: 60%;
+	background-color: fuchsia;
+	float: left;
 }
